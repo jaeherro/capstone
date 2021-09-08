@@ -1,6 +1,6 @@
 # capstone
 
-git clone https://github.com/jaeherro/capstone.git
+$ git clone https://github.com/jaeherro/capstone.git
 
 echo "# jaeherro" >> README.md
 git init
