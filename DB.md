@@ -1,3 +1,3 @@
 | Host | User | Password | Database |
 |------|------|----------|----------|
-|      |jaeherro|Ilovechickenpotpie|
+|   Host |jaeherro| Password| Database|
