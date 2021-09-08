@@ -1,5 +1,7 @@
 # capstone
 
+$ git config --global user.name "jaeherro"$ git config --global user.email jaeherro@iu.edu
+
 $ git clone https://github.com/jaeherro/capstone.git
 
 echo "# jaeherro" >> README.md
